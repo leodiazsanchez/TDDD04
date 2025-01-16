@@ -1,0 +1,4 @@
+org\graphwalker\example\CalculatorModel.class
+org\graphwalker\example\CalculatorTest.class
+org\graphwalker\example\CalculatorAStarTest.class
+org\graphwalker\example\CalulatorIT.class

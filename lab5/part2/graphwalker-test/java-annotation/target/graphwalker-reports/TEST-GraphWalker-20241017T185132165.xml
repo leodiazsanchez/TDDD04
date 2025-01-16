@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites time="0.116" tests="1" failures="0" errors="0">
+    <testsuite name="GraphWalker" tests="1" failures="0" errors="0" time="0.116" timestamp="2024-10-17T18:51:32">
+        <properties>
+            <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.9.9\bin\m2.conf"/>
+            <property name="env.=::" value="::\"/>
+            <property name="env.=C:" value="C:\Users\Leo\Documents\tddd04-graphwalker-2023"/>
+            <property name="env.=EXITCODE" value="00000000"/>
+            <property name="env.ALLUSERSPROFILE" value="C:\ProgramData"/>
+            <property name="env.APPDATA" value="C:\Users\Leo\AppData\Roaming"/>
+            <property name="env.ASL.LOG" value="Destination=file"/>
+            <property name="env.CHOCOLATEYINSTALL" value="C:\ProgramData\chocolatey"/>
+            <property name="env.CHOCOLATEYLASTPATHUPDATE" value="133327628164756324"/>
+            <property name="env.CLASSWORLDS_JAR" value="&quot;C:\Program Files\apache-maven-3.9.9\boot\plexus-classworlds-2.8.0.jar&quot;"/>
+            <property name="env.CLASSWORLDS_LAUNCHER" value="org.codehaus.plexus.classworlds.launcher.Launcher"/>
+            <property name="env.COMMONPROGRAMFILES" value="C:\Program Files\Common Files"/>
+            <property name="env.COMMONPROGRAMFILES(X86)" value="C:\Program Files (x86)\Common Files"/>
+            <property name="env.COMMONPROGRAMW6432" value="C:\Program Files\Common Files"/>
+            <property name="env.COMPUTERNAME" value="DESKTOP-D39RC0I"/>
+            <property name="env.COMSPEC" value="C:\Windows\system32\cmd.exe"/>
+            <property name="env.DRIVERDATA" value="C:\Windows\System32\Drivers\DriverData"/>
+            <property name="env.EFC_17508" value="1"/>
+            <property name="env.ERROR_CODE" value="0"/>
+            <property name="env.EXEC_DIR" value="C:\Users\Leo\Documents\tddd04-graphwalker-2023"/>
+            <property name="env.FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+            <property name="env.FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+            <property name="env.HOMEDRIVE" value="C:"/>
+            <property name="env.HOMEPATH" value="\Users\Leo"/>
+            <property name="env.JAVACMD" value="C:\Program Files\Common Files\Oracle\Java\javapath\java.exe"/>
+            <property name="env.JVMCONFIG" value="\.mvn\jvm.config"/>
+            <property name="env.LOCALAPPDATA" value="C:\Users\Leo\AppData\Local"/>
+            <property name="env.LOGONSERVER" value="\\DESKTOP-D39RC0I"/>
+            <property name="env.MAVEN_CMD_LINE_ARGS" value="clean install"/>
+            <property name="env.MAVEN_HOME" value="C:\Program Files\apache-maven-3.9.9"/>
+            <property name="env.MAVEN_PROJECTBASEDIR" value="C:\Users\Leo\Documents\tddd04-graphwalker-2023"/>
+            <property name="env.NUMBER_OF_PROCESSORS" value="4"/>
+            <property name="env.ONEDRIVE" value="C:\Users\Leo\OneDrive"/>
+            <property name="env.ONEDRIVECONSUMER" value="C:\Users\Leo\OneDrive"/>
+            <property name="env.OS" value="Windows_NT"/>
+            <property name="env.PATH" value="C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Users\Leo\AppData\Local\Programs\Python\Python311\Scripts;'C:\Users\Leo\AppData\Roaming\Python\Python311\Scripts;C:\Users\Leo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts';C:\Users\Leo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Leo\AppData\Local\Microsoft\WindowsApps;C:\Users\Leo\AppData\Local\GitHubDesktop\bin;C:\Users\Leo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Leo\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\Leo\.dotnet\tools;C:\Program Files\apache-maven-3.9.9\bin;"/>
+            <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+            <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64"/>
+            <property name="env.PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 9, GenuineIntel"/>
+            <property name="env.PROCESSOR_LEVEL" value="6"/>
+            <property name="env.PROCESSOR_REVISION" value="9e09"/>
+            <property name="env.PROGRAMDATA" value="C:\ProgramData"/>
+            <property name="env.PROGRAMFILES" value="C:\Program Files"/>
+            <property name="env.PROGRAMFILES(X86)" value="C:\Program Files (x86)"/>
+            <property name="env.PROGRAMW6432" value="C:\Program Files"/>
+            <property name="env.PROMPT" value="$P$G"/>
+            <property name="env.PSMODULEPATH" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files\Intel\Wired Networking\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\"/>
+            <property name="env.PUBLIC" value="C:\Users\Public"/>
+            <property name="env.SESSIONNAME" value="Console"/>
+            <property name="env.SYSTEMDRIVE" value="C:"/>
+            <property name="env.SYSTEMROOT" value="C:\Windows"/>
+            <property name="env.TEMP" value="C:\Users\Leo\AppData\Local\Temp"/>
+            <property name="env.TMP" value="C:\Users\Leo\AppData\Local\Temp"/>
+            <property name="env.USERDOMAIN" value="DESKTOP-D39RC0I"/>
+            <property name="env.USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-D39RC0I"/>
+            <property name="env.USERNAME" value="Leo"/>
+            <property name="env.USERPROFILE" value="C:\Users\Leo"/>
+            <property name="env.WDIR" value="C:\"/>
+            <property name="env.WINDIR" value="C:\Windows"/>
+            <property name="file.encoding" value="UTF-8"/>
+            <property name="file.separator" value="\"/>
+            <property name="java.class.path" value="C:\Program Files\apache-maven-3.9.9\boot\plexus-classworlds-2.8.0.jar"/>
+            <property name="java.class.version" value="65.0"/>
+            <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+            <property name="java.io.tmpdir" value="C:\Users\Leo\AppData\Local\Temp\"/>
+            <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Users\Leo\AppData\Local\Programs\Python\Python311\Scripts;'C:\Users\Leo\AppData\Roaming\Python\Python311\Scripts;C:\Users\Leo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts';C:\Users\Leo\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Leo\AppData\Local\Microsoft\WindowsApps;C:\Users\Leo\AppData\Local\GitHubDesktop\bin;C:\Users\Leo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Leo\AppData\Roaming\npm;C:\Program Files\Azure Data Studio\bin;C:\Users\Leo\.dotnet\tools;C:\Program Files\apache-maven-3.9.9\bin;;."/>
+            <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+            <property name="java.runtime.version" value="21.0.2+13-LTS-58"/>
+            <property name="java.specification.name" value="Java Platform API Specification"/>
+            <property name="java.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.specification.version" value="21"/>
+            <property name="java.vendor" value="Oracle Corporation"/>
+            <property name="java.vendor.url" value="https://java.oracle.com/"/>
+            <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+            <property name="java.version" value="21.0.2"/>
+            <property name="java.version.date" value="2024-01-16"/>
+            <property name="java.vm.compressedOopsMode" value="Zero based"/>
+            <property name="java.vm.info" value="mixed mode, sharing"/>
+            <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+            <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+            <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.specification.version" value="21"/>
+            <property name="java.vm.vendor" value="Oracle Corporation"/>
+            <property name="java.vm.version" value="21.0.2+13-LTS-58"/>
+            <property name="jdk.debug" value="release"/>
+            <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.9.9\lib\jansi-native"/>
+            <property name="line.separator" value="&#13;&#10;"/>
+            <property name="maven.build.version" value="Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)"/>
+            <property name="maven.conf" value="C:\Program Files\apache-maven-3.9.9/conf"/>
+            <property name="maven.home" value="C:\Program Files\apache-maven-3.9.9"/>
+            <property name="maven.multiModuleProjectDirectory" value="C:\Users\Leo\Documents\tddd04-graphwalker-2023"/>
+            <property name="maven.version" value="3.9.9"/>
+            <property name="native.encoding" value="Cp1252"/>
+            <property name="os.arch" value="amd64"/>
+            <property name="os.name" value="Windows 11"/>
+            <property name="os.version" value="10.0"/>
+            <property name="path.separator" value=";"/>
+            <property name="stderr.encoding" value="cp850"/>
+            <property name="stdout.encoding" value="cp850"/>
+            <property name="sun.arch.data.model" value="64"/>
+            <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+            <property name="sun.cpu.endian" value="little"/>
+            <property name="sun.cpu.isalist" value="amd64"/>
+            <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+            <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+            <property name="sun.java.launcher" value="SUN_STANDARD"/>
+            <property name="sun.jnu.encoding" value="Cp1252"/>
+            <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+            <property name="sun.os.patch.level" value=""/>
+            <property name="user.country" value="SE"/>
+            <property name="user.dir" value="C:\Users\Leo\Documents\tddd04-graphwalker-2023"/>
+            <property name="user.home" value="C:\Users\Leo"/>
+            <property name="user.language" value="sv"/>
+            <property name="user.name" value="Leo"/>
+            <property name="user.script" value=""/>
+            <property name="user.variant" value=""/>
+        </properties>
+        <testcase name="CreateModelTest" time="0.116" classname="org.graphwalker.example.CreateModelTest"/>
+    </testsuite>
+</testsuites>
